@@ -1,0 +1,11 @@
+
+R
+java:S3655!"7Call "Optional#isPresent()" before accessing the value.(ì¢ Ùùÿÿÿÿ
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8í¦¡­ü0
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ8í¦¡­ü0
+e
+java:S1128"HRemove this unused import 'org.parrolabs.api.model.customers.Customers'.(ú„Ëð8î¦¡­ü0
+h
+java:S1128"FRemove this unused import 'org.parrolabs.api.model.products.Products'.(Ðµöžþÿÿÿÿ8î¦¡­ü0
